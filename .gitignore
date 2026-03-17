@@ -12,5 +12,9 @@ venv/
 # Logs
 *.log
 
-# Reports (opcional si no quieres subir PDFs grandes)
+# Reports (PDFs grandes opcionales)
 reports/*.pdf
+
+# OS-generated files
+.DS_Store
+Thumbs.db
